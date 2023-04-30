@@ -16,3 +16,5 @@ const primeNumber = (num) => {
 }
 let givenNumber = 1;
 cl(primeNumber(givenNumber));
+
+cl(primeNumber(11))
